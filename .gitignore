@@ -1,2 +1,2 @@
-#folder containing datasets (contains large files that can be downloaded from the internet)
-./data
+#exclude datasets from git tracking
+./data/**
