@@ -1,2 +1,2 @@
-#exclude datasets from git tracking
-./data/**
+# Exclude downloaded datasets from Git tracking
+data/*
